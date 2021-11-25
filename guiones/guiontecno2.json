@@ -1,0 +1,50 @@
+{   "audio" : "audios/audiotecno2tp3_mezcla.mp3",
+    "modelo":"modelos/tecno.glb",
+    "fondo":"rgb(0,20,50)",
+    "data" :
+        [
+           {
+                "tiempo":"00:00",
+                "camara":"Camara1",
+                "duracion":3000,
+                "target":"Punto1",
+                "nombre":"Inicio"
+           },
+           {
+                "tiempo":"00:03",
+                "camara":"Camara2",
+                "duracion":3000,
+                "target":"Punto2",
+                "nombre":"Puerta entrada"
+           },
+           {
+                "tiempo":"00:15",
+                "camara":"Camara3",
+                "duracion":20000,
+                "target":"Punto3",
+                "nombre":"Habitacion 1"
+           },
+           {
+               "tiempo":"00:35",
+               "camara":"Camara2",
+               "duracion":5000,
+               "target":"Punto2",
+               "nombre":"Tragaluz"
+          },
+           {
+                "tiempo":"00:47",
+                "camara":"Camara4",
+                "duracion":36000,
+                "target":"Punto4",
+                "nombre":"Habitacion 2"
+           },
+           {
+                "tiempo":"01:23",
+                "camara":"Camara5",
+                "duracion":3000,
+                "target":"Punto5",
+                "nombre":"Baño pasado de moda"
+           }
+           
+        ]
+}
